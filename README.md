@@ -38,15 +38,15 @@ This repository contains an implementation of various operations on a singly lin
 ## Usage
 The main functions implemented in this project are:
 
-- **countNodes(Node* head)**: Counts and prints the number of nodes in the linked list.
-- **showList(Node* head)**: Displays the linked list.
-- **addToList(Node* head, int data)**: Adds a node to the end of the linked list.
-- **addToStart(Node* head, int data)**: Adds a node to the start of the linked list.
-- **insertAtPos(Node* head, int data, int pos)**: Inserts a node at a specific position in the linked list.
-- **removeHead(Node* head)**: Removes the head node of the linked list.
-- **removeEnd(Node* head)**: Removes the last node of the linked list.
-- **removeFromPos(Node* head, int pos)**: Removes a node from a specific position in the linked list.
-- **deleteList(Node* head)**: Deletes the entire linked list.
+- ```countNodes(Node* head)```: Counts and prints the number of nodes in the linked list.
+- ```showList(Node* head)```: Displays the linked list.
+- ```addToList(Node* head, int data)```: Adds a node to the end of the linked list.
+- ```addToStart(Node* head, int data)```: Adds a node to the start of the linked list.
+- ```insertAtPos(Node* head, int data, int pos)```: Inserts a node at a specific position in the linked list.
+- ```removeHead(Node* head)```: Removes the head node of the linked list.
+- ```removeEnd(Node* head)```: Removes the last node of the linked list.
+- ```removeFromPos(Node* head, int pos)```: Removes a node from a specific position in the linked list.
+- ```deleteList(Node* head)```: Deletes the entire linked list.
 
 ### Example
 Here's an example of how to use the functions:
